@@ -1,3 +1,9 @@
+/*
+ * ZAIN E. YOUSAF FUENTES
+ * UNIVERSITY OF CENTRAL FLORIDA
+ * 6/23/2022
+*/
+
 class HuffmanTreeNode {
     private boolean leaf;
     private char key;

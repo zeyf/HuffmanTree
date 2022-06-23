@@ -1,5 +1,11 @@
 import java.util.*;
 
+/*
+ * ZAIN E. YOUSAF FUENTES
+ * UNIVERSITY OF CENTRAL FLORIDA
+ * 6/23/2022
+*/
+
 public class HuffmanTree {
 
     HuffmanTreeNode root = null;

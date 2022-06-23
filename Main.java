@@ -1,6 +1,13 @@
 import java.util.*;
 
 /*
+ * ZAIN E. YOUSAF FUENTES
+ * UNIVERSITY OF CENTRAL FLORIDA
+ * 6/23/2022
+*/
+
+
+/*
 Character, Frequency (in thousands), Fixed-length codeword, Variable-length codeword
 a 45 000 0
 b 13 001 101
